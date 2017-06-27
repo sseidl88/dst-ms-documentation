@@ -1,0 +1,1 @@
+> Public API requests made to the `edge` server are required to authenticate and will recieve an authentication token from the `auth-server` service.  Edge API calls to services will authenticate via an RSA JWT token
