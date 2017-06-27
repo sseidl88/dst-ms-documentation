@@ -11,4 +11,4 @@ Topics covered are:
 
 
 ### Reference Application
-![](dst-ms-documentation/blob/master/microservice-dst-overview.png)
+![](https://user-images.githubusercontent.com/21327244/27596565-7f9284aa-5b25-11e7-9c55-7157638e4068.png)
