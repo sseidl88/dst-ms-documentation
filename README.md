@@ -11,4 +11,4 @@ Topics covered are:
 
 
 ###Reference Application
-![](sherpa/i/3/microservice-dst.png)
+![](dst-ms-documentation/blob/master/microservice-dst-overview.png)
