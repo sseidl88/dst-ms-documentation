@@ -1,6 +1,6 @@
 > Computing infrastructure for the reference application is obtained from Amazon EC2.
 
-###Infrastructure Includes Servers and Operating   
+### Infrastructure Includes Servers and Operating   
 
 ![](https://user-images.githubusercontent.com/21327244/27602754-807cda5a-5b39-11e7-8451-959a8f08a29f.png)
 
