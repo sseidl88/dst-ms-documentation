@@ -10,5 +10,5 @@ Topics covered are:
 * API Documentation 
 
 
-###Reference Application
+### Reference Application
 ![](dst-ms-documentation/blob/master/microservice-dst-overview.png)
